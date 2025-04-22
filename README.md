@@ -24,6 +24,9 @@ Layout: Based on QWERTY, with extra Layers for mouse Movement. -- I would like t
     - Would like to change, but i like the nvim Plugin and am stuck using it for the collection of 
  spaced repetition flashcards i've amassed over the years with [obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition)
     - Probably switching once i find a srr that's able to handle Markdown,Code and LaTeX.
+- Firefox
+    - I'm using a keyboardcentric firefox with the plugin [vimium c](https://github.com/gdh1995/vimium-c) 
+    - I'm also hiding the top toolbox with a custom css
 
 ---
 
