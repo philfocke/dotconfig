@@ -1,124 +1,3 @@
-cp * ~/.doom.d/
-clear
-doom
-doom sync
-clear
-ls
-cd
-ls
-cd obsidian/
-ls
-cd obsidian/
-ls
-cd ..
-ls
-clear
-ls
-clear
-ls
-ls
-clear
-ls
-clear
-ls
-clear
-cd
-ls
-doom run ~/obsidian/org -nw
-doom sync
-ls
-vim .bashrc
-exit
-vim .bash
-vim .bashrc
-clear
-exit
-org
-exit
-brew install anki
-sudo pacman -S anki
-yay -S anki
-yay -S hyprlock
-clear
-hyprlock
-touch .config/hypr/hyprlock.conf
-hyprlock
-vim .config/hypr/hyprlock.conf 
-hyprlock
-vim .doom.d/packages.el 
-clea
-clear
-vim .doom.d/
-vim .doom.d/packages.el 
-clear
-vim .doom.d/config.el 
-vim .doom.d/config.el 
-ls
-vim .doom.d/config.el 
-vim .doom.d/init.el 
-org
-ls
-vim .doom.d/config.el 
-clear
-org
-nvim .doom.d/config.el 
-cd .doom.d/
-vim init.el 
-vim init.el
-nvim init.el 
-clear
-ls
-org
-vim config.el 
-clear
-doom sync
-clear
-ls
-vim .doom.d/config.el 
-doom sync
-vim .doom.d/config.el 
-vim ini
-vim .doom.d/init.el 
-vim .doom.d/config.el 
-clear
-doom sync
-vim .doom.d/config.el 
-vim .doom.d/config.el 
-ls
-ls
-vim .config/ghostty/
-clear
-ls
-vim .doom.d/init.el 
-clear
-doom sync
-ls
-clear
-ls
-vim .doom.d/init.el 
-doom sync
-clear
-ls
-vim .doom.d/config.el 
-doom sync
-doom sync
-vim .doom.d/config.el 
-doom sync
-vim .doom.d/init.el 
-doom sync
-doom
-doom doctor
-doom sync
-ls
-vim .doom.d/config.el 
-clear
-doom sync
-vim .doom.d/init.el 
-doom sync
-vim .doom.d/init.el 
-doom sync
-vim .doom.d/init.el 
-doom sync
 vim .doom.d/init.el 
 doom sync
 vim .doom.d/init.el 
@@ -498,3 +377,124 @@ ls
 clear
 nvim
 fg
+ls
+ls -la
+cd .config/
+ls
+ls -la
+ls spicetify/
+ls
+cd ..
+ls
+ls
+ls -la
+rm bash*
+ls
+ls -la
+rm .bash*
+ls
+ls -la
+rm ls .emacs.d/
+ls .emacs.d/
+ls
+ls -la
+cd .config/
+ls
+cd ..
+rm -rf .vim
+rm .vim*
+ls
+clear
+cd .config/
+ls
+clear
+clear
+ls
+cd
+ls
+cd do
+cd dotconfig/
+ls
+cd shared/
+ls
+vim ghostty/.config/ghostty/config 
+clear
+nvim
+ls
+ghosty +list-themes
+ghostty +list-themes
+clear
+clear
+ls
+clear
+ls
+clear
+ls
+cd ..
+rm -rf .config/
+ls
+clear
+clear
+clear
+ls
+git add .
+git commit -m "delete .config"
+git push
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+clear
+ls
+cd
+cd probe/
+ls
+vim gruvbox.json
+clear
+clear
+vim gruvbox.json 
+vim gruvbox.json 
+clear
+q
+clear
+cd
+nvim dotconfig/shared/ghostty/.config/ghostty/config 
+nvim .config/ghostty/config 
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+nvim .config/ghostty/config 
+clear
+ls
+ls
+cd Downloads/
+ls
+vim Dark-Reader-Settings.json 
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+vim test.c
+clear

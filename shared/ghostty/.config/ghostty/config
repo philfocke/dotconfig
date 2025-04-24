@@ -1,5 +1,5 @@
 ## Fonts
-font-size = 28
+font-size = 24
 #font-family = IosevkaTermSlab Nerd Font Mono
 #font-family = JetBrains Mono
 #font-family = BlexMono
@@ -19,7 +19,7 @@ font-size = 28
 theme = GruvboxDark
 #theme = GruvboxDarkHard
 
-#background-opacity = 0.9
+background-opacity = 1
 
 
 

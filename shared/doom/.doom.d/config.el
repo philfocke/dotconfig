@@ -79,3 +79,25 @@
 ;; Habits werden nur an dem Tag an dem sie gemacht werrden angezeigt
 (setq org-agenda-repeating-timestamp-show-all nil)
 (setq org-agenda-show-future-repeats nil)
+;; Checking Org files to agenda for Todos..
+(setq org-agenda-files '("~/obsidian/org/roam/"
+                         "~/obsidian/org/habits.org"
+                         "~/obsidian/org/general_todos.org"))
+
+;; dont show habits in tasks
+(defun my/org-skip-habits ()
+  "Skip tasks with STYLE property set to 'habit'."
+  (let ((style (org-entry-get (point) "STYLE")))
+    (when (and style (string= style "habit"))
+      (org-end-of-subtree t))))
+
+(setq org-agenda-custom-commands
+      '(("T" "TODOs without habits"
+         alltodo ""
+         ((org-agenda-skip-function #'my/org-skip-habits)))))
+
+(map! :leader
+      :desc "TODOs (no habits)"
+      "n u" #'(lambda () (interactive) (org-agenda nil "T")))
+;; start files folded
+(setq org-startup-folded t)
