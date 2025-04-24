@@ -1,0 +1,243 @@
+09:20:55.431: Platform: Wayland
+09:20:55.431: CPU Name: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
+09:20:55.431: CPU Speed: 4304.163MHz
+09:20:55.431: Physical Cores: 4, Logical Cores: 8
+09:20:55.431: Physical Memory: 15822MB Total, 2713MB Free
+09:20:55.431: Kernel Version: Linux 6.14.1-arch1-1
+09:20:55.431: Distribution: "Arch Linux" Unknown
+09:20:55.431: Desktop Environment: Hyprland (Hyprland)
+09:20:55.431: Session Type: wayland
+09:20:55.432: Qt Version: 6.9.0 (runtime), 6.8.3 (compiled)
+09:20:55.432: Portable mode: false
+09:20:55.481: OBS 31.0.3 (linux)
+09:20:55.481: ---------------------------------
+09:20:55.482: ---------------------------------
+09:20:55.482: audio settings reset:
+09:20:55.482: 	samples per sec: 48000
+09:20:55.482: 	speakers:        2
+09:20:55.482: 	max buffering:   960 milliseconds
+09:20:55.482: 	buffering type:  dynamically increasing
+09:20:55.484: ---------------------------------
+09:20:55.484: Initializing OpenGL...
+09:20:55.484: Using EGL/Wayland
+09:20:55.541: Initialized EGL 1.5
+09:20:55.603: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 2070/PCIe/SSE2
+09:20:55.603: OpenGL loaded successfully, version 3.3.0 NVIDIA 570.133.07, shading language 3.30 NVIDIA via Cg compiler
+09:20:55.632: ---------------------------------
+09:20:55.632: video settings reset:
+09:20:55.632: 	base resolution:   1920x1080
+09:20:55.632: 	output resolution: 1280x720
+09:20:55.632: 	downscale filter:  Bicubic
+09:20:55.632: 	fps:               30/1
+09:20:55.632: 	format:            NV12
+09:20:55.632: 	YUV mode:          Rec. 709/Partial
+09:20:55.633: NV12 texture support enabled
+09:20:55.633: P010 texture support not available
+09:20:55.633: Audio monitoring device:
+09:20:55.633: 	name: Default
+09:20:55.633: 	id: default
+09:20:55.633: ---------------------------------
+09:20:55.640: Failed to load 'en-US' text for module: 'decklink-captions.so'
+09:20:55.647: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+09:20:55.654: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+09:20:55.654: Failed to initialize module 'decklink.so'
+09:20:55.792: [pipewire] Available capture sources:
+09:20:55.792: [pipewire]     - Monitor source
+09:20:55.792: [pipewire]     - Window source
+09:20:55.814: v4l2loopback not installed, virtual camera not registered
+09:20:55.918: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+09:20:56.044: VAAPI: API version 1.22
+09:20:56.110: FFmpeg VAAPI H264 encoding supported
+09:20:56.278: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+09:20:56.278: FFmpeg VAAPI AV1 encoding not supported
+09:20:56.436: FFmpeg VAAPI HEVC encoding supported
+09:20:56.927: [obs-nvenc] NVENC version: 13.0 (compiled) / 13.0 (driver), CUDA driver version: 12.80, AV1 supported: false
+09:20:57.480: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+09:20:57.480: 
+09:20:57.483: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+09:20:57.483: 
+09:20:57.483: Module '/usr/lib/obs-plugins/obs-websocket.so' not loaded
+09:20:57.509: ---------------------------------
+09:20:57.509:   Loaded Modules:
+09:20:57.509:     text-freetype2.so
+09:20:57.509:     rtmp-services.so
+09:20:57.509:     obs-x264.so
+09:20:57.509:     obs-webrtc.so
+09:20:57.509:     obs-vst.so
+09:20:57.509:     obs-transitions.so
+09:20:57.509:     obs-qsv11.so
+09:20:57.509:     obs-outputs.so
+09:20:57.509:     obs-nvenc.so
+09:20:57.509:     obs-libfdk.so
+09:20:57.509:     obs-filters.so
+09:20:57.509:     obs-ffmpeg.so
+09:20:57.509:     linux-v4l2.so
+09:20:57.509:     linux-pulseaudio.so
+09:20:57.509:     linux-pipewire.so
+09:20:57.509:     linux-jack.so
+09:20:57.509:     linux-capture.so
+09:20:57.509:     linux-alsa.so
+09:20:57.509:     image-source.so
+09:20:57.509:     frontend-tools.so
+09:20:57.509:     decklink-output-ui.so
+09:20:57.509:     decklink-captions.so
+09:20:57.509: ---------------------------------
+09:20:57.509: ---------------------------------
+09:20:57.509: Available Encoders:
+09:20:57.509:   Video Encoders:
+09:20:57.509: 	- ffmpeg_svt_av1 (SVT-AV1)
+09:20:57.509: 	- ffmpeg_aom_av1 (AOM AV1)
+09:20:57.509: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+09:20:57.509: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+09:20:57.509: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+09:20:57.509: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+09:20:57.509: 	- obs_x264 (x264)
+09:20:57.509:   Audio Encoders:
+09:20:57.509: 	- ffmpeg_aac (FFmpeg AAC)
+09:20:57.509: 	- ffmpeg_opus (FFmpeg Opus)
+09:20:57.509: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+09:20:57.509: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+09:20:57.509: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+09:20:57.509: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+09:20:57.509: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+09:20:57.509: 	- libfdk_aac (libfdk AAC)
+09:20:57.509: ==== Startup complete ===============================================
+09:20:57.554: All scene data cleared
+09:20:57.554: ------------------------------------------------
+09:20:57.559: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.1) 15.0.0'
+09:20:57.559: pulse-input: Audio format: s24le, 48000 Hz, 2 channels
+09:20:57.559: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+09:20:57.559: pulse-input: Started recording from 'alsa_output.usb-HP__Inc_HyperX_Cloud_III_Wireless_0000000000000000-00.analog-stereo.monitor' (default)
+09:20:57.559: [Loaded global audio device]: 'Desktop Audio'
+09:20:57.560: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.1) 15.0.0'
+09:20:57.560: pulse-input: Audio format: s16le, 32000 Hz, 1 channels
+09:20:57.560: pulse-input: Started recording from 'alsa_input.usb-HP__Inc_HyperX_Cloud_III_Wireless_0000000000000000-00.mono-fallback' (default)
+09:20:57.560: [Loaded global audio device]: 'Mic/Aux'
+09:20:57.560: PipeWire initialized
+09:20:57.561: Switched to scene 'Scene'
+09:20:57.561: ------------------------------------------------
+09:20:57.561: Loaded scenes:
+09:20:57.561: - scene 'Scene':
+09:20:57.561:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+09:20:57.561: ------------------------------------------------
+09:20:57.605: [pipewire] Screencast session created
+09:20:58.149: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Mic/Aux)
+09:20:58.149: 
+09:20:58.170: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+09:20:58.170: 
+09:20:59.848: [pipewire] Asking for monitor and window
+09:20:59.852: [pipewire] source selected, setting up screencast
+09:20:59.858: [pipewire] Server version: 1.4.1
+09:20:59.858: [pipewire] Library version: 1.4.1
+09:20:59.858: [pipewire] Header version: 1.4.1
+09:20:59.858: [pipewire] Created stream 0x58a383225220
+09:20:59.858: [pipewire] Stream 0x58a383225220 state: "connecting" (error: none)
+09:20:59.859: [pipewire] Playing stream 0x58a383225220
+09:20:59.859: [pipewire] Stream 0x58a383225220 state: "paused" (error: none)
+09:20:59.873: [pipewire] Negotiated format:
+09:20:59.873: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:20:59.873: [pipewire]     Modifier: 0x0
+09:20:59.873: [pipewire]     Size: 2560x1440
+09:20:59.873: [pipewire]     Framerate: 0/1
+09:20:59.874: [pipewire] Negotiated format:
+09:20:59.874: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:20:59.874: [pipewire]     Modifier: 0x300000000e08014
+09:20:59.874: [pipewire]     Size: 2560x1440
+09:20:59.874: [pipewire]     Framerate: 0/1
+09:20:59.874: [pipewire] Stream 0x58a383225220 state: "streaming" (error: none)
+09:21:40.033: Creating a popup with a parent, QWidgetWindow(0x58a380b230e0, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x58a383416800, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+09:21:47.234: Creating a popup with a parent, QWidgetWindow(0x58a380b230e0, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x58a38380c970, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+09:21:50.235: Creating a popup with a parent, QWidgetWindow(0x58a380b230e0, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x58a38380c970, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+09:21:51.508: Creating a popup with a parent, QWidgetWindow(0x58a380b230e0, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x58a38380c970, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+09:21:59.784: Get on org.freedesktop.portal.Settings returned an invalid reply
+09:21:59.784: Get on org.freedesktop.portal.Settings returned an invalid reply
+09:22:24.992: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x58a3846ea170 with focusing surface 0x58a38533d910
+09:22:45.747: Get on org.freedesktop.portal.Settings returned an invalid reply
+09:22:46.754: Get on org.freedesktop.portal.Settings returned an invalid reply
+09:22:47.912: Get on org.freedesktop.portal.Settings returned an invalid reply
+09:22:58.760: Number of remaining views: 1
+09:22:58.760: ---------------------------------
+09:22:58.760: video settings reset:
+09:22:58.760: 	base resolution:   2560x1440
+09:22:58.760: 	output resolution: 1920x1080
+09:22:58.760: 	downscale filter:  Bicubic
+09:22:58.760: 	fps:               60000/1001
+09:22:58.760: 	format:            NV12
+09:22:58.760: 	YUV mode:          Rec. 709/Partial
+09:22:58.761: NV12 texture support enabled
+09:22:58.761: P010 texture support not available
+09:22:58.761: Settings changed (outputs, video, appearance)
+09:22:58.761: ------------------------------------------------
+09:23:04.221: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x58a38354eb60 with focusing surface 0x58a380f966c0
+09:23:05.789: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x58a38354eb60 with focusing surface 0x58a380f966c0
+09:23:11.034: Creating a popup with a parent, QWidgetWindow(0x58a380b230e0, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x58a384649940, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+09:23:21.705: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x58a383e18590 with focusing surface 0x58a380f966c0
+09:23:22.702: User Removed source 'Screen Capture (PipeWire)' (pipewire-screen-capture-source) from scene 'Scene'
+09:23:22.702: [pipewire] Stream 0x58a383225220 state: "paused" (error: none)
+09:23:22.744: [pipewire] Stream 0x58a383225220 state: "unconnected" (error: none)
+09:23:23.460: Creating a popup with a parent, QWidgetWindow(0x58a380b230e0, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x58a3832b3660, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+09:23:25.860: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x58a380f966c0 with focusing surface 0x58a3852d12a0
+09:23:26.662: PipeWire initialized
+09:23:26.666: User added source 'Screen Capture (PipeWire)' (pipewire-screen-capture-source) to scene 'Scene'
+09:23:26.682: [pipewire] Screencast session created
+09:23:26.688: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x58a3843955e0 with focusing surface 0x58a380f966c0
+09:23:27.638: [pipewire] Asking for monitor and window
+09:23:27.640: [pipewire] source selected, setting up screencast
+09:23:27.646: [pipewire] Server version: 1.4.1
+09:23:27.646: [pipewire] Library version: 1.4.1
+09:23:27.646: [pipewire] Header version: 1.4.1
+09:23:27.646: [pipewire] Created stream 0x58a384fbef80
+09:23:27.646: [pipewire] Stream 0x58a384fbef80 state: "connecting" (error: none)
+09:23:27.647: [pipewire] Playing stream 0x58a384fbef80
+09:23:27.647: [pipewire] Stream 0x58a384fbef80 state: "paused" (error: none)
+09:23:27.660: [pipewire] Negotiated format:
+09:23:27.660: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:23:27.660: [pipewire]     Modifier: 0x0
+09:23:27.660: [pipewire]     Size: 2560x1440
+09:23:27.660: [pipewire]     Framerate: 0/1
+09:23:27.661: [pipewire] Negotiated format:
+09:23:27.661: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:23:27.661: [pipewire]     Modifier: 0x300000000e08014
+09:23:27.661: [pipewire]     Size: 2560x1440
+09:23:27.661: [pipewire]     Framerate: 0/1
+09:23:27.661: [pipewire] Stream 0x58a384fbef80 state: "streaming" (error: none)
+09:23:27.665: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x58a3843a7c20 with focusing surface 0x58a380f966c0
+09:23:44.430: [obs-nvenc: 'simple_video_stream'] settings:
+09:23:44.430: 	codec:        H264
+09:23:44.430: 	rate_control: CBR
+09:23:44.430: 	bitrate:      2500
+09:23:44.430: 	keyint:       250
+09:23:44.430: 	preset:       p5
+09:23:44.430: 	tuning:       hq
+09:23:44.430: 	multipass:    qres
+09:23:44.430: 	profile:      high
+09:23:44.430: 	width:        1920
+09:23:44.430: 	height:       1080
+09:23:44.430: 	b-frames:     2
+09:23:44.430: 	b-ref-mode:   0
+09:23:44.430: 	lookahead:    true (8 frames)
+09:23:44.430: 	aq:           true
+09:23:44.430: 
+09:23:44.473: libfdk_aac encoder created
+09:23:44.473: libfdk_aac bitrate: 160, channels: 2
+09:23:44.476: ==== Recording Start ===============================================
+09:23:44.476: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/phil/videos/2025-04-15 09-23-44.mkv'...
+09:23:44.566: [pipewire] Stream 0x58a384fbef80 state: "paused" (error: none)
+09:23:44.567: [pipewire] Negotiated format:
+09:23:44.567: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:23:44.567: [pipewire]     Modifier: 0x300000000e08014
+09:23:44.567: [pipewire]     Size: 2560x1440
+09:23:44.567: [pipewire]     Framerate: 0/1
+09:23:44.567: [pipewire] Negotiated format:
+09:23:44.567: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:23:44.567: [pipewire]     Modifier: 0x300000000e08014
+09:23:44.567: [pipewire]     Size: 2560x1440
+09:23:44.567: [pipewire]     Framerate: 0/1
+09:23:44.568: [pipewire] Stream 0x58a384fbef80 state: "streaming" (error: none)
+09:38:50.169: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/phil/videos/2025-04-15 09-23-44.mkv' stopped
+09:38:50.169: Output 'simple_file_output': stopping
+09:38:50.169: Output 'simple_file_output': Total frames output: 54270
+09:38:50.169: Output 'simple_file_output': Total drawn frames: 54286 (54287 attempted)
+09:38:50.169: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+09:38:50.169: ==== Recording Stop ================================================
+09:38:50.341: libfdk_aac encoder destroyed

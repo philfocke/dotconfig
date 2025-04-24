@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/phil/dotconfig/.config'
+let g:netrw_dirhist_8='/home/phil/.config/ghostty'
+let g:netrw_dirhist_7='/home/phil/.config/kitty'
+let g:netrw_dirhist_6='/home/phil/.config'
+let g:netrw_dirhist_5='/home/phil/.config/ghostty'
+let g:netrw_dirhist_4='/home/phil/.doom.d'
+let g:netrw_dirhist_3='/home/phil/.config/ghostty'
+let g:netrw_dirhist_2='/home/phil/.doom.d'
+let g:netrw_dirhist_1='/home/phil/repos'
