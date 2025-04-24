@@ -26,6 +26,9 @@ background-opacity = 1
 ## Cursor
 cursor-style = block
 cursor-style-blink = false
+shell-integration-features = no-cursor
+window-decoration = none
 
 ## Fix no Xterm -> SSH
-command = TERM=xterm-256color /usr/bin/env bash
+#command = TERM=xterm-256color /usr/bin/env bash
+# Wenn Error infocmp -x | ssh YOUR-SERVER -- tic -x -

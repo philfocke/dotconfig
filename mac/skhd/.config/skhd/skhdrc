@@ -1,0 +1,26 @@
+alt - c : yabai -m space --focus one
+### Move to Window with vim motions
+alt - h : yabai -m window --focus west
+alt - j : yabai -m window --focus south
+alt - k : yabai -m window --focus north
+alt - l : yabai -m window --focus east
+#Move Windows to Spaces
+alt + lshift - b: yabai -m window --space browser
+alt + lshift - t: yabai -m window --space terminal
+#alt + lshift - o: yabai -m window --space obsidian
+alt + lshift - 1: yabai -m window --space one
+alt + lshift - 2: yabai -m window --space two
+alt + lshift - 3: yabai -m window --space three
+#focus windows
+alt - t : yabai -m space --focus terminal
+alt - b : yabai -m space --focus browser
+#alt - o : yabai -m space --focus obsidian
+alt - 1 : yabai -m space --focus one
+alt - 2 : yabai -m space --focus two
+alt - 3 : yabai -m space --focus three
+
+alt - s : yabai -m window --toggle spotify || open  -a Spotify
+alt - o : yabai -m window --toggle ghostty || open  -a Ghostty
+
+
+#### Window Decoration
