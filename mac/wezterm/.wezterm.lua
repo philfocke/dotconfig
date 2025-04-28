@@ -43,7 +43,9 @@ config.hide_tab_bar_if_only_one_tab = true
 config.font_size = 28
 config.force_reverse_video_cursor = true
 
-local basefont = 'JetBrains Mono'
+--local basefont = 'JetBrains Mono'
+ local basefont = 'Iosevka Comfy' 
+
 local regularfont = wezterm.font(basefont, { weight = 'Regular'})
 local boldfont = wezterm.font(basefont, { weight = 'Bold'})
 config.font = regularfont

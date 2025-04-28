@@ -1,0 +1,26 @@
+# -*- mode: snippet -*-
+# name: Anki
+# uuid:
+# key: a
+# condition: t
+# --
+
+
+* $1
+:PROPERTIES:
+:ANKI_FORMAT: nil
+:ANKI_DECK: Betriebssysteme::C
+:ANKI_NOTE_TYPE: KaTeX and Markdown Basic (Color)
+:END:
+** Front
+$2
+*** Back
+$3
+#+begin_src c
+``` c
+#include <stdio.h>
+int main(void) {
+$0
+}
+```
+#+end_src
