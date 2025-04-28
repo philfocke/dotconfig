@@ -13,7 +13,7 @@ font-family = Iosevka Comfy
 ## Theme -> Darkman Swap Script /usr/share/dark-mode.d
 #theme = rose-pine
 #theme = Tomorrow Night
-##############theme = Melange_light
+#################theme = Melange_light
 #theme = rose-pine
 #theme = kanagawa
 #theme = gruber-darker

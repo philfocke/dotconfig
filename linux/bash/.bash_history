@@ -1,261 +1,3 @@
-vim .doom.d/init.el 
-doom sync
-vim .doom.d/init.el 
-doom sync
-vim .doom.d/packages.el 
-clear
-doom sync
-vim .doom.d/init.el 
-clear
-vim .doom.d/init.el 
-vim .doom.d/config.el 
-doom sync
-cat .emacs.d/.local/state/logs/cli.doom.250423165.80189.error
-cat .emacs.d/.local/state/logs/cli.doom.250423165718.79319.log 
-clear
-ls
-rm .emacs.d/.local/state/logs/cli.doom.*
-ls
-doom sync
-doom build
-doom sync -u
-ls
-vim .doom.d/init.el 
-clear
-cd .doom.d/
-ls
-vim config.el 
-vim config.el 
-doom sync -u
-org
-cd .do
-cd .doom.d/
-ls
-clear
-vim config.el 
-vim init.el 
-nvim .ini
-nvim init.el 
-ls
-nvim config.el 
-nvim ~/.emacs.d/modules/lang/org/config.el
-ls
-nvim ~/.emacs.d/modules/lang/org/config.el
-doom sync
-vim .ini
-vim init.el 
-doom sync
-clear
-vim packages.el 
-vim packages.el 
-doom sync
-clear
-ls
-vim init.el 
-doom sync -u
-vim packages.el 
-doom sync -u
-vim packages.el 
-doom sync -u
-vim init.el 
-clear
-vim packages.el 
-clear
-ls
-vim custom.el 
-vim custom.el 
-vim config.el 
-doom sync -u
-doom doctor
-ls
-clear
-ls
-vim packages.el 
-doom sync -u
-ls
-clear
-ls
-clear
-ls
-clear
-ls
-clear
-ls
-cd ..
-ls
-ls
-ls
-ls
-rm -rf .doom.d/
-ls
-clear
-ls
-cd repos/
-ls
-cd dotconfig/
-ls
-cd shared/
-ls
-cp -r test ../../../.doom.d
-doom sync
-clear
-ls
-cd
-cd .doom.d/
-ls
-clear
-vim init.el 
-doom sync -u
-cd ..
-ls
-rm -rf .doom.d/
-ls
-cp -r repos/dotconfig/shared/test/* .doom.d
-cp -r repos/dotconfig/shared/test .doom.d
-ls
-doom sync -u
-ls
-clear
-ls
-vim .doom.d/
-doom sync
-clear
-ls
-clear
-ls
-vim .doom.d/init.el 
-doom sync -u
-clear
-rm -rf .doom.d/
-clear
-ls
-doom
-doom install
-doom sync
-clear
-ls
-doom run
-ls
-clear
-vim .doom.d/init.el 
-doom sync
-org
-org
-org
-org
-org
-org
-org
-org
-org
-clear
-nvim
-org
-org
-org
-org
-org
-org
-org
-org
-org
-org
-ls
-rg
-org
-vim packa
-org
-org
-org
-org
-ls
-vim org
-org
-org
-org
-org
-doom sync
-org
-org
-org
-hyprlock
-hyprlock
-clear
-ls
-clear
-ls
-clear
-ls
-clear
-ls
-vim .config/ghostty/
-clear
-clear
-ls
-hyprlock
-vim .config/
-vim .config/ghostty/config 
-clear
-ls
-clear
-clear
-ls
-clear
-ls
-clear
-ls
-vim a.c
-vim .config/ghostty/config 
-clear
-ls
-vim a.c 
-clear
-ghostty +list-themes
-clear
-ls
-vim .config/ghostty/config 
-clear
-ls
-vim .config/ghostty/config 
-exit
-clear
-nvim .config/ghostty/config 
-clear
-ls
-clear
-ls
-clear
-ls
-clear
-ls
-clear
-ls
-clear
-ls
-clear
-ls
-clear
-ls
-clear
-ls
-clear
-ls
-clear
-ls
-clear
-ls
-nvim .config/ghostty/config 
-clear
-ls
-clear
-ls
-clear
-clear
-ls
-clear
-clear
-nvim .config/ghostty/config 
-nvim .config/ghostty/config 
 nvim .config/ghostty/config 
 nvim .config/ghostty/config 
 ghostty +list-themes
@@ -498,3 +240,261 @@ clear
 ls
 vim test.c
 clear
+exit
+ls /usr/bin/env
+ls /usr/bin/env/
+ls /usr/bin/
+Hello World
+./a.out
+exit
+cd repos/
+ls
+cd betriebssysteme/
+ls
+cd psh/
+history
+:q
+clear
+cc -Wall -Wextra main.c -o psh && ./psh
+clear
+clear
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh Hello WOrld
+cc -Wall -Wextra main.c -o psh && ./psh 
+vim make.sh
+chmod +x make.sh 
+ls
+vim mkae
+vim make
+vim make.sh 
+./make.sh 
+vim make.sh 
+./make.sh 
+vim make.sh 
+./make
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh > test
+ls
+hxd test
+pacman -S hxd
+sudo pacman -S hxd
+yay -S hxd
+hxd 
+hxd test 
+ls
+./make
+./make.sh Hello WOrld
+./make.sh
+./make.sh
+./make.sh
+./make.sh
+./make.sh
+./make.sh
+./make.sh
+./make.sh
+./make.sh
+./make.sh
+clear
+ls
+cd repos/
+ls
+cd betriebssysteme/
+ls
+git pull
+clear
+clear
+clear
+ls
+cd psh/
+ls
+clear
+vim main.c
+export LANG=C
+vim main.c
+echo $LC_*
+vim main.c
+nvim main.c 
+./a.out 
+nvim main.c 
+./a.out 
+nvim main.c 
+clear
+cc -Wall -Wextra main.c
+cc -Wall -Wextra main.c -o psh
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c 
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c 
+nvim main.c 
+nvim main.c 
+nvim ~/.config/nvim/init.lua 
+nvim 
+nvim ~/.config/nvim/init.lua 
+nvim
+nvim
+./a.out 
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+cc -Wall -Wextra main.c -o psh && ./psh
+nvim main.c
+nvim main.c
+nvim main.c
+clear
+ls
+clear
+echo Hello World
+cd repos/betriebssysteme/
+ls
+cd psh/
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+ls /usr/bin
+ls /usr/bin | grep echo
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+./make.sh 
+clear
+ls
+clear
+date
+cd repos/betriebssysteme/
+ls
+cd psh/
+ls
+clear
+./make
+./make.sh 
+./make.sh 
+ls
+ls $HOME
+ls $HOME .
+ls
+cd ..
+ls
+git add .,
+git add .
+git commit -m "pshell"
+git push
+clear
+ls
+cd psh/
+ls
+vim main.c
+nvim main.c
+./make.sh 
+:q
+q
+exit
