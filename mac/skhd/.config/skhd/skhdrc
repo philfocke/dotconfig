@@ -19,7 +19,7 @@ alt - 1 : yabai -m space --focus one
 alt - 2 : yabai -m space --focus two
 alt - 3 : yabai -m space --focus three
 
-alt - s : yabai -m window --toggle spotify || open  -a Spotify
+#alt - s : yabai -m window --toggle spotify || open  -a Spotify
 alt - o : yabai -m window --toggle ghostty || open  -a Ghostty
 
 
